@@ -1,0 +1,6 @@
+flask
+flask_restful
+pyjwt
+flask-cors
+flask-socketio
+flask-mail
