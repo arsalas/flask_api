@@ -1,8 +1,8 @@
-# Create env
-python -m venv env
+## Create env
+### `python -m venv env`
 
-Activate env
-source ./env/Scripts/activate
+## Activate env
+### `source ./env/Scripts/activate`
 
-Install dependences
-pip install -r requirements.txt
+## Install dependences
+### `pip install -r requirements.txt`
